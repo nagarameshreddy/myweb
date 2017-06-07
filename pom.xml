@@ -42,12 +42,12 @@
 		<repository>
 			<id>nexus</id>
 			<name>Releases</name>
-			<url>http://localhost:8081/repository/maven-releases/</url>
+			<url>http://localhost:8081/repository/javahome/</url>
 		</repository>
 		<snapshotRepository>
 			<id>nexus</id>
 			<name>Snapshot</name>
-			<url>http://localhost:8081/repository/maven-snapshots/</url>
+			<url>http://localhost:8081/repository/javahome/</url>
 		</snapshotRepository>
   	</distributionManagement>
 	<build>
